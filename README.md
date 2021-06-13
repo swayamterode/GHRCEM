@@ -1,3 +1,4 @@
+# Welcome to the GHRCEM wiki!
 # G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE
 
 ## This repository is mainly for the GHRCEM Students
@@ -9,7 +10,7 @@ I will update the repository regularly whenever I will get some updates from the
 
 ---
 
-## Contens 🔖
+## Contents 🔖
 
 - ###  [Assignments, Notes and Question Papers](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201)
 
