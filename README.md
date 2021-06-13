@@ -1,4 +1,3 @@
-# Welcome to the GHRCEM wiki!
 # G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE
 
 ## This repository is mainly for the GHRCEM Students
