@@ -7,6 +7,7 @@
 ### [5. Programming for Problem Solving (UITP102)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/5.%20Programming%20for%20Problem%20Solving%20(UITP102))
 ### [6. Modeling of digital circuits (UECL103)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103))
 ### [7. Internet of Things (UECP107)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/7.%20Internet%20of%20Things%20(UECP107))
+
 <div align="center">
   
 ## 👨 Let's Connect
