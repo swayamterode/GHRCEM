@@ -1,25 +1,26 @@
+<div align="center">
+  
 # G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE
-
-## This repository is mainly for the GHRCEM Students
-
-As I am currently in SEM 2 (2021). So this repository contains all the files that you require for the submissions of assignments as well as Practical submissions.
-It also contains all the question papers of **CAE** & **ESE**.
-
-I will update the repository regularly whenever I will get some updates from the college regarding the **Assignments, Notes, and practical Submissions**.
-
-
+  
+ This Repo is only for [GHRCEM Pune](https://ghrcem.raisoni.net/)
+  </div>
+  
+  <!--
 ## Contents 🔖
 
-- ###  [Assignments, Notes and Question Papers](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201)
+- [Assignments, Notes & Question Papers](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201)
 
-- ### [CODE](https://github.com/swayamterode/GHRCEM/tree/main/Code)
+- [Code](https://github.com/swayamterode/GHRCEM/tree/main/Code)
 
-- ###  [For SEM Wise cotents](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers)
+- [Semester Wise Subjects](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers)
+-->
 
+## SEM 1 Contents 🚀
 
-
-# SEM 1 Contents 🚀
-|Subjects| NOTES | TAE   | CAE   | PRACTICAL |
+<details>
+  <summary>Click to Expand!</summary>
+  
+|Subjects| NOTES | TAE   | CAE   | PRACTICAL | 
 | :---   | :---: | :---: | :---: | :---:     |
 | [1. Computer Programming (UCOL101)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/1.%20Computer%20Programming%20(UCOL101)) | [NOTES](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/1.%20Computer%20Programming%20(UCOL101)/1.%20Computer%20Programming%20Theory%20Notes) | [TAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/1.%20Computer%20Programming%20(UCOL101)/2.%20TAE) |[CAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/1.%20Computer%20Programming%20(UCOL101)/3.%20CAE) | [PRACTICAL](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/1.%20Computer%20Programming%20(UCOL101)/Practical)
 | [2. Foundation of Data Analytic (UCOL102)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/2.%20Foundation%20of%20Data%20Analytic%20(UCOL102))|[NOTES](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/2.%20Foundation%20of%20Data%20Analytic%20(UCOL102)/2.%20NOTES) | [TAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/2.%20Foundation%20of%20Data%20Analytic%20(UCOL102)/4.TAE) | [CAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/2.%20Foundation%20of%20Data%20Analytic%20(UCOL102)/5.%20CAE/1.%20CAE%20Question%20Papers) | [PRACTICAL](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/2.%20Foundation%20of%20Data%20Analytic%20(UCOL102)/6.Practical)
@@ -29,8 +30,13 @@ I will update the repository regularly whenever I will get some updates from the
 | [6.Problem Identification and Design Thinking (UITP101)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/6.Problem%20Identification%20and%20Design%20Thinking%20(UITP101)) | -| -|-|[PRACTICAL](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/6.Problem%20Identification%20and%20Design%20Thinking%20(UITP101))
 | [7.Introduction to Drones (UAIP102)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/7.Introduction%20to%20Drones%20(UAIP102)) | -| -|-|[PRACTICAL](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/7.Introduction%20to%20Drones%20(UAIP102))
 
+  </details>
 
-# SEM 2 Content 🚀
+## SEM 2 Content 🚀
+
+<details>
+  <summary>Click to Expand!</summary>
+  
 |Subjects| NOTES | TAE   | CAE   | PRACTICAL |
 | :---   | :---: | :---: | :---: | :---:     |
 |[1. Integral Calculus and Differential Equations (UBSL104)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/1.%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104))|[NOTES](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/2.%20Linear%20Algebra%20and%20Statistics%20(UBSL105)/NOTES)|[TAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/1.%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104)/TAE)|[CAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/1.%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104)/CAE)|-
@@ -41,18 +47,21 @@ I will update the repository regularly whenever I will get some updates from the
 |[6. Modeling of digital circuits (UECL103)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103))|[NOTES](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/NOTES)|[TAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/TAE)|[CAE](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/CAE)|[PRACTICAL](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/Practical)
 |[7. Internet of Things (UECP107)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/7.%20Internet%20of%20Things%20(UECP107))|[NOTES](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/7.%20Internet%20of%20Things%20(UECP107)/NOTES)|
 
+  </details>
+  
+## Code
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  This Folder contains all the Codes for the Various subjects
 
+- [Programming for Problem Solving (UITP102)](https://github.com/swayamterode/GHRCEM/tree/main/Code/Programming-for-Problem-Solving-UITP102)
 
-## CODE
+- But If you are looking for **Computer Programming (C Language)** then [click me :)](https://github.com/swayamterode/GHRCEM_Computer-Programming-UCOP101/tree/main)
 
-This Folder contains all the Codes for the Various subjects
-
-- ### [Programming-for-Problem-Solving-UITP102](https://github.com/swayamterode/GHRCEM/tree/main/Code/Programming-for-Problem-Solving-UITP102)
-
-- ### But If you are looking for **Computer Programming (C Language)** then [click me :)](https://github.com/swayamterode/GHRCEM_Computer-Programming-UCOP101/tree/main)
-
-
+  </details>
+  
 <div align="center">
   
 ## 👨 Let's Connect
