@@ -2,7 +2,7 @@
   
 # G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE
   
- This Repo is only for [GHRCEM Pune](https://ghrcem.raisoni.net/)
+ This Repo is only for [GHRCEM Pune](https://ghrcem.raisoni.net/) Student.
   </div>
   
   <!--
