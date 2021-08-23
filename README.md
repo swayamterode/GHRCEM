@@ -8,11 +8,11 @@
   <!--
 ## Contents 🔖
 
-- [Assignments, Notes & Question Papers](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201)
+- [Assignments, Notes & Question Papers](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201)
 
 - [Code](https://github.com/swayamterode/GHRCEM/tree/main/Code)
 
-- [Semester Wise Subjects](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers)
+- [Semester Wise Subjects](Assignments%2C%20Notes%20and%20Question%20Papers)
 -->
 
 
@@ -21,9 +21,10 @@
 <details>
   <summary>Click to expand!</summary>
   
-## SEM 1 Content 🚀
+  <br>
+  
 <details>
-  <summary>Click to Expand!</summary>
+  <summary>SEM 1 🚀</summary>
   
 |Subjects| NOTES | TAE   | CAE   |ESE    | PRACTICAL | 
 | :---  | :---: | :---: | :---: | :---: |   :---:   |
@@ -37,9 +38,10 @@
 
 </details>
 
-##  SEM 2 Content 🚀
+  <br>
+
 <details>
-  <summary>Click to Expand!</summary>
+  <summary>SEM 2 🚀</summary>
   
 |Subjects| NOTES |  TAE   |  CAE  |   ESE   | PRACTICAL |
 | :---   | :---: | :---: | :---:  |  :---:  |   :---:   |
