@@ -2,55 +2,21 @@
 
   # Sorting Algorithms Types
 
+  
+
+| Sorting Techniques |             Code               |                  Output                  |
+|         :---       |            :----:              |                  :----:                  |
+| 1. Bubble Sort     |   [Code](https://git.io/J207F) |    [Output](https://git.io/J20bm)        |
+| 2. Selection Sort  |   [Code](https://git.io/JaHWu) |    [Output](https://git.io/JaH4t)        | 
+| 3. Insertion Sort  |   [Code](https://git.io/Ja5Yg) |    [Output](https://git.io/Ja5OH)        |
+  
 </div>
 
-### 1. Bubble Sort
-
-<details>
-  <summary>Click to expand</summary>
- 
-  <h4>
-   
-  [Code](https://git.io/J207F)
-   
-  [Output](https://git.io/J20bm)
-  
-  </h4>
-  
-</details>
-
-### 2. Selection Sort
-
-<details>
-  <summary>Click to expand</summary>
- 
-  <h4>
-   
-  [Code](https://git.io/JaHWu)
-   
-  [Output](https://git.io/JaH4t)
-  
-  </h4>
-  
-</details>
-
-### 3. Insertion Sort
-
-<details>
-  <summary>Click to expand</summary>
- 
-  <h4>
-   
-  [Code](https://git.io/Ja5Yg)
-   
-  [Output](https://git.io/Ja5OH)
-  
-  </h4>
-  
-</details>
 
 
 <div align="center">
+  
+  ## My Handles
   
   [![Linkedin Badge](https://img.shields.io/badge/Swayam%20Terode-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swayam-terode/ "Connect on LinkedIn")
   [![Gmail Badge](https://img.shields.io/badge/-swayamterodex@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swayamterodex@gmail.com "Connect via Email")
