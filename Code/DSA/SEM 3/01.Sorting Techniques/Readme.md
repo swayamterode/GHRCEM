@@ -34,6 +34,21 @@
   
 </details>
 
+### 3. Insertion Sort
+
+<details>
+  <summary>Click to expand</summary>
+ 
+  <h4>
+   
+  [Code](https://git.io/Ja5Yg)
+   
+  [Output](https://git.io/Ja5OH)
+  
+  </h4>
+  
+</details>
+
 
 <div align="center">
   
