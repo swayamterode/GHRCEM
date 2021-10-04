@@ -19,7 +19,21 @@
   
 </details>
 
----
+### 2. Selection Sort
+
+<details>
+  <summary>Click to expand</summary>
+ 
+  <h4>
+   
+  [Code](https://git.io/JaHWu)
+   
+  [Output](https://git.io/JaH4t)
+  
+  </h4>
+  
+</details>
+
 
 <div align="center">
   
