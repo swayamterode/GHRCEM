@@ -1,1 +1,0 @@
-Objective: To understand the programming knowledge using Decision Statements (if, if-else, if-else-if ladder, switch and GOTO)

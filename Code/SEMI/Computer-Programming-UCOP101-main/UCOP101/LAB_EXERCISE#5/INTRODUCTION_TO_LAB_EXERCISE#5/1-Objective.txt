@@ -1,2 +1,0 @@
-Objective(s):
-To understand programming using different dimensions of Array.

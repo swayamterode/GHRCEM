@@ -1,4 +1,0 @@
-LAB EXERCISE #9
-
-Objective(s):
-To understand data files and file handling in C.
