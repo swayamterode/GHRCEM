@@ -1,0 +1,17 @@
+LAB EXERCISE #2
+
+Objective(s):
+
+To be familiar with different data types, Operators and Expressions in C.
+Program: Write a program to take input of--name, 
+rollno and marks obtained by a student in 4 subjects of 100 marks each and display the name, 
+rollno with percentage score secured.
+
+Algorithm:
+1. Start
+2. Define variables: name, rollno, sub1, sub2, sub3, sub4, sum, score
+3. Take input from keyboard for all the input variables
+4. Calculate the sum of marks of 4 subjects and also calculate the percentage score as:
+sum = sub1 + sub2 + sub3 + sub4; score = (sum/400) * 100
+5. Display the name, roll number and percentage score.
+6. Stop

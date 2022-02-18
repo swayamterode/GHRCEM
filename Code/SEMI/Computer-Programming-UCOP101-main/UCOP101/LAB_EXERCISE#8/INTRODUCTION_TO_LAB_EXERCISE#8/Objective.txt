@@ -1,0 +1,4 @@
+LAB EXERCISE #8
+
+Objective(s):
+To understand programming with Structure.

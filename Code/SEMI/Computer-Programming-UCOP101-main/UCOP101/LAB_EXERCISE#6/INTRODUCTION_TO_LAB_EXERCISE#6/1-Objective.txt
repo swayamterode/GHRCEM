@@ -1,0 +1,3 @@
+LAB EXERCISE #6
+
+Objective(s): To understand function programming, its types and function-call.

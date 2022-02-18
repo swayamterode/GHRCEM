@@ -1,0 +1,4 @@
+LAB EXERCISE #7
+
+Objective(s):
+To understand programming with Pointer, String and Function call by reference.
