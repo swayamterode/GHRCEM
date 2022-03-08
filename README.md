@@ -2,8 +2,8 @@
   
 # G H RAISONI COLLEGE OF ENGINEERING & MANAGEMENT, WAGHOLI, PUNE
   
- This Repo is only for [GHRCEM Pune](https://ghrcem.raisoni.net/) Student.
-  </div>
+**This Repo is only for [GHRCEM Pune](https://ghrcem.raisoni.net/) Student.**
+</div>
   
   <!--
 ## Contents 🔖
@@ -15,16 +15,11 @@
 - [Semester Wise Subjects](Assignments%2C%20Notes%20and%20Question%20Papers)
 -->
 
-
+<div align = "center">
+  
 ## Semester Wise Content
 
-<details>
-  <summary>Click to expand!</summary>
-  
-  <br>
-  
-<details>
-  <summary>SEM 1 🚀</summary>
+## SEM 1 🚀
   
 |Subjects| NOTES | TAE   | CAE   |ESE    | PRACTICAL | 
 | :---  | :---: | :---: | :---: | :---: |   :---:   |
@@ -35,14 +30,11 @@
 | [5. Introduction to Discrete Devices (UECL105)](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/5.%20Introduction%20to%20Discrete%20Devices%20(UECL105)) |[Notes](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/5.%20Introduction%20to%20Discrete%20Devices%20(UECL105)/1.%20NOTES)|[TAE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/5.%20Introduction%20to%20Discrete%20Devices%20(UECL105)/2.%20TAE)|[CAE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/5.%20Introduction%20to%20Discrete%20Devices%20(UECL105)/3.%20CAE)| [ESE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/5.%20Introduction%20to%20Discrete%20Devices%20(UECL105)/5.%20ESE)|[Practical](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/5.%20Introduction%20to%20Discrete%20Devices%20(UECL105)/4.%20Practical%20IDDC)
 | [6.Problem Identification and Design Thinking (UITP101)](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/6.Problem%20Identification%20and%20Design%20Thinking%20(UITP101)) |[Notes](Images/SEM%201/Notes%20of%20Problem%20Identification%20and%20Design%20Thinking%20(UITP101).svg) | [TAE](Images/SEM%201/TAE%20of%20Problem%20Identification%20and%20Design%20Thinking%20(UITP101).svg)|[CAE](Images/SEM%201/CAE%20of%20Problem%20Identification%20and%20Design%20Thinking%20(UITP101).svg)|[ESE](Images/SEM%201/ESE%20of%20Problem%20Identification%20and%20Design%20Thinking%20(UITP101).svg)|[Practical](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/6.Problem%20Identification%20and%20Design%20Thinking%20(UITP101))
 | [7.Introduction to Drones (UAIP102)](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/7.Introduction%20to%20Drones%20(UAIP102)) |No Notes|[TAE](Images/SEM%201/TAE%20of%20Introduction%20to%20Drones%20(UAIP102).svg)|[CAE](Images/SEM%201/CAE%20of%20Problem%20Identification%20and%20Design%20Thinking%20(UITP101).svg)|[ESE](Images/SEM%201/ESE%20of%20Problem%20Identification%20and%20Design%20Thinking%20(UITP101).svg)|[Practical](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%201/7.Introduction%20to%20Drones%20(UAIP102))
-
-</details>
-
   <br>
 
-<details>
-  <summary>SEM 2 🚀</summary>
-  
+
+## SEM 2 🚀
+
 |Subjects| NOTES |  TAE   |  CAE  |   ESE   | PRACTICAL |
 | :---   | :---: | :---: | :---:  |  :---:  |   :---:   |
 |[1. Integral Calculus and Differential Equations (UBSL104)](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/1.%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104))|[Notes](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/2.%20Linear%20Algebra%20and%20Statistics%20(UBSL105)/NOTES)|[TAE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/1.%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104)/TAE)|[CAE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/1.%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104)/CAE)|[ESE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/1.%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104)/ESE)|[Info](Images/SEM%202/Practical%20of%20Integral%20Calculus%20and%20Differential%20Equations%20(UBSL104).svg)
@@ -52,11 +44,8 @@
 |[5. Programming for Problem Solving (UITP102)](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/5.%20Programming%20for%20Problem%20Solving%20(UITP102))|[Notes](https://github.com/swayamterode/GHRCEM/tree/main/Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/5.%20Programming%20for%20Problem%20Solving%20(UITP102)/NOTES)|[Info](Images/SEM%202/TAE%20of%20Programming%20for%20Problem%20Solving%20(UITP102).svg)|[Info](Images/SEM%202/CAE%20of%20Programming%20for%20Problem%20Solving%20(UITP102).svg)|[Info](Images/SEM%202/ESE%20of%20Programming%20for%20Problem%20Solving%20(UITP102).svg)|[Practical](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/5.%20Programming%20for%20Problem%20Solving%20(UITP102)/Practical)|
 |[6. Modeling of digital circuits (UECL103)](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103))|[Notes](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/NOTES)|[TAE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/TAE)|[CAE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/CAE)|[ESE](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/ESE)|[Practical](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/6.%20Modeling%20of%20digital%20circuits%20(UECL103)/Practical)
 |[7. Internet of Things (UECP107)](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/7.%20Internet%20of%20Things%20(UECP107))|[Notes](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/7.%20Internet%20of%20Things%20(UECP107)/NOTES)|[Info](Images/SEM%202/Info%20IOT.svg)|[Info](Images/SEM%202/Info%20IOT.svg)|[Info](Images/SEM%202/Info%20IOT.svg)|[Practical](Assignments%2C%20Notes%20and%20Question%20Papers/SEM%202/7.%20Internet%20of%20Things%20(UECP107)/Practical)
-
-  </details>
   
-  </details>
-  
+<!---
 ## <img src="Images/SEM%202/Programming.svg">
 
 <details>
@@ -69,6 +58,8 @@
   </details>
   
 <div align="center">
+  
+--->
   
 ## 👨 Follow to connect
 
