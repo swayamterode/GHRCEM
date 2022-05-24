@@ -241,3 +241,79 @@ void main()
 ```
 
 ---
+
+## 6. Merge Sort
+
+```c
+#include <stdio.h>
+void mergeArr(int arr[], int beg, int mid, int end)
+{
+    int i, j, k;
+    int n1 = mid - beg + 1;
+    int n2 = end - mid;
+    int LeftArr[n1], RightArr[n2]; // Temporary arrays  for(int i=0;i<n1;i++) //Copying data to temporary arrays  LeftArr[i]=arr[beg+i];
+    for (int j = 0; j < n2; j++)
+        RightArr[j] = arr[mid + 1 + j];
+    i = 0; // Initial index of first sub-array
+    j = 0; // Initial index of second sub-array  k=beg; // Initial index of merged array  while(i<n1 && j<n2)
+    {
+        if (LeftArr[i] <= RightArr[j])
+        {
+            arr[k] = LeftArr[i];
+            i++;
+        }
+        else
+        {
+            arr[k] = RightArr[j];
+            j++;
+        }
+        k++;
+    }
+    while (i < n1)
+    {
+        arr[k] = LeftArr[i];
+        i++;
+        k++;
+    }
+    while (j < n2)
+    {
+        arr[k] = RightArr[j];
+        j++;
+        k++;
+    }
+}
+void mergeSort(int arr[], int beg, int end)
+{
+    if (beg < end)
+    {
+        int mid = (beg + end) / 2;
+        mergeSort(arr, beg, mid);
+        mergeSort(arr, mid + 1, end);
+        mergeArr(arr, beg, mid, end);
+    }
+}
+void array_print(int arr[], int n)
+{
+    int i;
+    for (i = 0; i < n; i++)
+        printf("%d ", arr[i]);
+}
+void main()
+{
+    int a[20], n;
+    printf("Enter size of Array: ");
+    scanf("%d", &n);
+    printf("\n Enter Array elements: ");
+    for (int i = 0; i < n; i++)
+        scanf("%d", &a[i]);
+    printf("\n Array before sorting: ");
+    array_print(a, n);
+    mergeSort(a, 0, n - 1);
+    printf("\n Array after sorting: ");
+    array_print(a, n);
+    getch();
+}
+
+```
+
+---
