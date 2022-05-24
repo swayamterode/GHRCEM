@@ -195,3 +195,49 @@ int main()
 }
 ```
 ---
+
+## 5. Selection Sort
+
+```c
+#include <stdio.h>
+void selection(int arr[], int n)
+{
+    int i, j, s;
+    for (i = 0; i < n - 1; i++)
+    {
+        s = i;
+        for (j = i + 1; j < n; j++)
+        {
+            if (arr[j] < arr[s])
+                s = j;
+        }
+        int t = arr[s];
+        arr[s] = arr[i];
+        arr[i] = t;
+    }
+}
+void array_print(int a[], int n)
+{
+    int i;
+    for (i = 0; i < n; i++)
+        printf("%d\n", a[i]);
+}
+void main()
+{
+    int a[10], n, i;
+    printf("Enter size of array: ");
+    scanf("%d", &n);
+    printf("Enter array elements: ");
+    for (i = 0; i < n; i++)
+        scanf("%d", &a[i]);
+    printf(" Before sorting array elements: \n");
+    array_print(a, n);
+    selection(a, n);
+    printf(" \n After sorting array elements: \n");
+    array_print(a, n);
+    getch();
+}
+
+```
+
+---
