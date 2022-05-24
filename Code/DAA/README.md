@@ -322,8 +322,6 @@ void main()
 ## 7. Greedy Algorithm
 
 ```c
-
-```
 #include <limits.h>
 #include <stdbool.h>
 #include <stdio.h>
@@ -375,13 +373,13 @@ int main()
     return 0;
 }
 
+```
+
 ---
 
 ## 8. Kruskal’s Algorithm
 
 ```c
-
-```
 #include <stdio.h>
 #define MAX 30
 typedef struct edge
@@ -518,6 +516,7 @@ int main()
     kruskalAlgo();
     print();
 }
+```
 
 ---
 
