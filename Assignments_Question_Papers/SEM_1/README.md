@@ -3,7 +3,7 @@
 ## SEM 1 Content 🚀
   
 |Subjects| NOTES | TAE   | CAE   |ESE    | PRACTICAL |
-| :---   | :---: | :---: | :---: | :---: |   :---:   |f
+| :---   | :---: | :---: | :---: | :---: |   :---:   |
 | [1. Computer Programming](../SEM_1/1.Computer_Programming/) | [Notes](../SEM_1/1.Computer_Programming/1.Notes/) | [TAE](../SEM_1/1.Computer_Programming/2.TAE/) |[CAE](../SEM_1/1.Computer_Programming/3.CAE/) | [ESE](../SEM_1/1.Computer_Programming/4.ESE/) |[Practical](../SEM_1/1.Computer_Programming/Practical/)
 | [2. Foundation of Data Analytic (UCOL102)](../SEM_1/2.Foundation_of_Data_Analytic/)|[Notes](../SEM_1/2.Foundation_of_Data_Analytic/1.NOTES/) | [TAE](../SEM_1/2.Foundation_of_Data_Analytic/3.TAE/) | [CAE](../SEM_1/2.Foundation_of_Data_Analytic/4.CAE/) | [ESE](../SEM_1/2.Foundation_of_Data_Analytic/6.ESE/)|[Practical](../SEM_1/2.Foundation_of_Data_Analytic/5.Practical/)
 | [3. Matrices and Differential Calculus](../SEM_1/3.Matrices_and_Differential_Calculus/) | [Notes](../SEM_1/3.Matrices_and_Differential_Calculus/NOTES/)|[TAE](../SEM_1/3.Matrices_and_Differential_Calculus/TAE/)|[CAE](../SEM_1/3.Matrices_and_Differential_Calculus/CAE/)|[ESE](../SEM_1/3.Matrices_and_Differential_Calculus/ESE/)|[Info](../)
